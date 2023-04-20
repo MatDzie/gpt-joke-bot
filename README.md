@@ -37,5 +37,3 @@ You can customize the cost per token in the joke_chatbot.py script according to 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to adapt the above example to match your GitHub repository URL and include any additional information or screenshots that you find relevant. Save this content in a README.md file in your repository to have it displayed on the GitHub project page.
