@@ -36,4 +36,4 @@ A web interface will open in your default web browser. Enter a topic for the jok
 You can customize the cost per token in the joke_chatbot.py script according to your OpenAI API pricing plan by modifying the cost_per_token variable.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
